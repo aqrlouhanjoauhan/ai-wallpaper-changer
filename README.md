@@ -59,7 +59,7 @@ python ai_wallpaper.py
 
 ```text
 ai-wallpaper-changer/
-├── main.py
+├── ai_wallpaper.py
 └── 赛博雨夜_1741608899/
     ├── wallpaper.png    # 1920x1080 高清壁纸
     └── prompt.txt       # 原始灵感与扩写后的最终提示词
