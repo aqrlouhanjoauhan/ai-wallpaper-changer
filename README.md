@@ -57,10 +57,10 @@ python ai_wallpaper.py
 
 脚本运行后会在当前目录下自动生成归档文件夹：
 
+```text
 ai-wallpaper-changer/
-├── ai_wallpaper.py
+├── main.py
 └── 赛博雨夜_1741608899/
     ├── wallpaper.png    # 1920x1080 高清壁纸
     └── prompt.txt       # 原始灵感与扩写后的最终提示词
-
----
+```
